@@ -550,7 +550,7 @@ This plugin is part of a comprehensive marketplace with **34 specialized plugins
 
 ## Resources
 
-- [Genkit Documentation]([https://firebase.google.com/docs/genkit](https://genkit.dev/docs/get-started/))
+- [Genkit Documentation]([https://genkit.dev](https://genkit.dev/docs/get-started/))
 - [Claude Code Documentation](https://docs.claude.com/claude-code)
 - [Anthropic API Reference](https://docs.anthropic.com/)
 - [Plugin Source Code](https://github.com/amitpatole/claude-genkit-plugin)

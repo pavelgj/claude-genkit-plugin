@@ -346,7 +346,7 @@ Firebase Genkit application built with $LANG and $MODEL_PROVIDER.
 
 ## Learn More
 
-- [Genkit Documentation](https://firebase.google.com/docs/genkit)
+- [Genkit Documentation](https://genkit.dev)
 - [Claude API Reference](https://docs.anthropic.com/)
 EOF
 

@@ -501,7 +501,7 @@ code --telemetry-level off
 
 ## Resources
 
-- [Firebase Genkit Documentation](https://firebase.google.com/docs/genkit)
+- [Firebase Genkit Documentation](https://genkit.dev)
 - [Extension GitHub Repository](https://github.com/amitpatole/claude-genkit-plugin)
 - [Report Issues](https://github.com/amitpatole/claude-genkit-plugin/issues)
 - [Feature Requests](https://github.com/amitpatole/claude-genkit-plugin/discussions)

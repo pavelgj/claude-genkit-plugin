@@ -402,4 +402,4 @@ https://github.com/amitpatole/claude-genkit-plugin/issues
 - [Repository](https://github.com/amitpatole/claude-genkit-plugin)
 - [Documentation](https://github.com/amitpatole/claude-genkit-plugin#readme)
 - [Issues](https://github.com/amitpatole/claude-genkit-plugin/issues)
-- [Firebase Genkit Docs](https://firebase.google.com/docs/genkit)
+- [Firebase Genkit Docs](https://genkit.dev)
